@@ -1,0 +1,43 @@
+2015-04-21 05:21:59.827 FinalApp[6181:105972] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/NiGi/Library/Developer/CoreSimulator/Devices/26BBE0DE-B88D-443E-8D8D-2AFF6D1C1346/data/Containers/Data/Application/B0EEB77B-2D09-4805-AE65-8E8236F78C96/Library/Cookies/Cookies.binarycookies
+2015-04-21 05:22:00.068 FinalApp[6181:105972] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-21 05:22:00.069 FinalApp[6181:105972] Multi-tasking -> Device: YES, App: YES
+2015-04-21 05:22:00.085 FinalApp[6181:105972] Unlimited access to network resources
+2015-04-21 05:22:00.094 FinalApp[6181:105972] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-21 05:22:00.762 FinalApp[6181:105972] Resetting plugins due to page load.
+2015-04-21 05:22:01.216 FinalApp[6181:105972] Finished load of: file:///Users/NiGi/Library/Developer/CoreSimulator/Devices/26BBE0DE-B88D-443E-8D8D-2AFF6D1C1346/data/Containers/Bundle/Application/99ABE0F3-DD96-4DDE-A8A4-5D4A9BD28927/FinalApp.app/www/index.html#camera
+2015-04-21 05:23:21.851 FinalApp[6181:106624] Camera.getPicture: source type 1 not available.
+2015-04-22 06:41:09.703 FinalApp[43323:875066] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/NiGi/Library/Developer/CoreSimulator/Devices/7A5DD541-FA9A-44D5-8C99-D1071B4251D0/data/Containers/Data/Application/3568446C-5BF7-46E8-9C9F-4BA4E74A9068/Library/Cookies/Cookies.binarycookies
+2015-04-22 06:41:09.766 FinalApp[43323:875066] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-22 06:41:09.766 FinalApp[43323:875066] Multi-tasking -> Device: YES, App: YES
+2015-04-22 06:41:09.781 FinalApp[43323:875066] Unlimited access to network resources
+2015-04-22 06:41:09.784 FinalApp[43323:875066] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-22 06:41:10.420 FinalApp[43323:875066] Resetting plugins due to page load.
+2015-04-22 06:41:10.617 FinalApp[43323:875066] Finished load of: file:///Users/NiGi/Library/Developer/CoreSimulator/Devices/7A5DD541-FA9A-44D5-8C99-D1071B4251D0/data/Containers/Bundle/Application/75F2E9BD-7712-42E7-9FE5-585EDA1C048C/FinalApp.app/www/index.html#camera
+2015-04-22 06:43:09.861 FinalApp[43579:878698] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/NiGi/Library/Developer/CoreSimulator/Devices/7A5DD541-FA9A-44D5-8C99-D1071B4251D0/data/Containers/Data/Application/2FA42DA7-10CE-4C06-99F9-3F74BB800E0D/Library/Cookies/Cookies.binarycookies
+2015-04-22 06:43:09.940 FinalApp[43579:878698] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-22 06:43:09.941 FinalApp[43579:878698] Multi-tasking -> Device: YES, App: YES
+2015-04-22 06:43:09.945 FinalApp[43579:878698] Unlimited access to network resources
+2015-04-22 06:43:09.947 FinalApp[43579:878698] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-22 06:43:10.093 FinalApp[43579:878698] Resetting plugins due to page load.
+2015-04-22 06:43:10.176 FinalApp[43579:878698] Finished load of: file:///Users/NiGi/Library/Developer/CoreSimulator/Devices/7A5DD541-FA9A-44D5-8C99-D1071B4251D0/data/Containers/Bundle/Application/6FDC7209-62E8-499A-8761-02166E68040B/FinalApp.app/www/index.html#camera
